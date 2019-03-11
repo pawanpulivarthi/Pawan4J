@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-chat-app
+Implementation-Version: 1
+Built-By: Mastercom 203
+Implementation-Vendor-Id: spring-chat-app
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-chat-app
+Created-By: Maven Integration for Eclipse
+
